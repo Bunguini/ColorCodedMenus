@@ -453,7 +453,7 @@
   gr: "{:color #D7D7D7FF}Ro{:reset}{:color #FF0000FF}x{:reset}{:color #D7D7D7FF}as"
   it: "{:color #D7D7D7FF}Ro{:reset}{:color #FF0000FF}x{:reset}{:color #D7D7D7FF}as"
 
-- id: 0x572E
+- id: 0x51F
   en: "{:color #FC5C00FF}Sora"
   fr: "{:color #FC5C00FF}Sora"
   sp: "{:color #FC5C00FF}Sora"
