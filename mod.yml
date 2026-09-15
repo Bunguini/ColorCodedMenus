@@ -1,0 +1,50 @@
+title: Color Coded Menus LITE
+original_author: Bunguini
+description: All colors but magic and forms are shortened so they still turn grey
+
+assets:
+- name: msg/us/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: sys.yml
+      language: en
+- name: msg/sp/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: sys.yml
+      language: sp
+- name: msg/fr/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: sys.yml
+      language: fr
+- name: msg/gr/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: sys.yml
+      language: gr
+- name: msg/it/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: sys.yml
+      language: it
